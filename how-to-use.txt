@@ -1,0 +1,3 @@
+1. install pckage dengan mengetik "npm i"
+2. masukkan token bot dan prefix di dalam file .env
+3. jalankan bot dan enjoy
