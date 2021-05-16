@@ -2,7 +2,8 @@
     "settings": {
         "tag": "",
         "roleid": "",
-        "chid": ""
+        "chid": "",
+        "remroleid": ""
     },
     "PlayersData": {
         "313655648371867648": {
