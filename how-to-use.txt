@@ -1,3 +1,11 @@
-1. install pckage dengan mengetik "npm i"
+1. install package dengan mengetik "npm i"
 2. masukkan token bot dan prefix di dalam file .env
 3. jalankan bot dan enjoy
+4. ketik <prefix>help untuk informasi/ commands commands bot
+
+//en
+
+1. install the package by typing "npm i"
+2. put bot token and prefix in .env . file
+3.run the bot and enjoy
+4. Type <prefix>help for information/command bot commands
